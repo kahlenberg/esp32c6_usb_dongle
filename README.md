@@ -81,7 +81,6 @@ Contributions and forks are welcome!
 ├── LICENSE
 └── README.md        # This file
 ```
-Buy link: [Tindie](https://www.tindie.com/products/mubinicyer/esp32c6-usb-dongle/) 
 ---
 
 For full details, see [Crowd Supply product page](#) *(coming soon!)*.
