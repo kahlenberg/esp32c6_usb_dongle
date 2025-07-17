@@ -64,6 +64,10 @@ This project is open-source:
 * Documentation and usage examples: `/docs`
 
 Contributions and forks are welcome!
+## Use-cases
+![IMG_3563](https://github.com/user-attachments/assets/b751e8d7-3b66-442f-b545-bd5c1578302d)
+![IMG_3575](https://github.com/user-attachments/assets/d7089040-ff3f-480f-820f-1fe47bb3d57a)
+![IMG_3595](https://github.com/user-attachments/assets/a0b0205d-816b-4b37-84be-e944bac6caf8)
 
 ## License
 
