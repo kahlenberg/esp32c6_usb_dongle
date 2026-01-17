@@ -44,8 +44,8 @@ You can connect multiple dongles to a **Raspberry Pi** for home automation or me
 
 Use cases:
 
-* **Zigbee Coordinator + Zigbee End Device**
-* Thread border router setup with **Home Assistant**
+* **Zigbee End Device**
+* Thread border router setup
 * Wi-Fi ↔ Zigbee ↔ Thread bridging
 
 ## Example Projects (coming soon..)
